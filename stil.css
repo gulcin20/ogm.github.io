@@ -1,0 +1,113 @@
+body{
+    background-image: url(res/leaves.webp);
+}
+header{
+   background-color: #915d21;
+    width: 850px;
+    height: 150px;
+    background-image: url("res/yeni.jpg");
+}
+#container{
+    width: 850px;
+    height: auto;
+    margin: auto;
+}
+nav{
+    width: 850px;
+    height: 45px;
+    margin-bottom: 5px;
+}
+nav ul li{
+    float: left;
+    padding: 0px;
+    margin: 5px;
+    list-style-type: none;
+}
+nav ul li a{ 
+    width: 144px;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #92bf0d;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0px 5px 0px 0px;
+    border-left: 3PX solid #915d21;
+    display: block;
+}
+nav ul li a:hover{
+    color: black;
+    font-style: italic;
+    margin: auto;
+}
+article{
+    width: 850px;
+    height: auto;
+    background-color: #915d21;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin: auto;
+}
+footer{
+    width: 850px;
+    height: 100px;
+    background-color: #92bf0d;
+    margin: auto;
+    
+}
+h1{
+    color: #92bf0d;
+    font-family: unset;
+}
+p{
+    font-family: serif; 
+}
+#link{
+    color:bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
+th,td{
+    border: 3px solid #92bf0d;
+}
+th{
+    height: 80px;
+}
+td{
+    width: 150px;
+    height: 40px;
+}
+.img{
+    float: left;
+    width: auto;
+    height: auto;
+    margin: 20px;
+}
+.orm{
+    margin: auto;
+    width: 850px;
+}
+.div{
+        width: 300px;
+        height: auto;
+        background-color: rgb(109, 41, 17);
+        border: 2px solid rgb(37, 108, 9);
+        padding: 10px;
+        margin: 5px;
+}
+.p{
+    color: #92bf0d;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: block;
+}
+.diiv{
+    width: 325px;
+    height: auto;
+    background-color: #915d21;
+    border: 3px solid #92bf0d;
+    padding: 10px;
+    margin: 5px;
+}
